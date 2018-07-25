@@ -4383,6 +4383,11 @@ svg.pulse-svg .third-circle {
   padding: 100px 0;
 }
 
+#login {
+  background: #41294C;
+  padding: 100px 0;
+}
+
 .width-half {
   width: 50%;
   float: left;
